@@ -9,4 +9,9 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  { "ellisonleao/gruvbox.nvim", priority = 1000, config = true, opts = ... },
+  { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
+  { "neanias/everforest-nvim", version = false, lazy = false, priority = 1000 },
+  { "rebelot/kanagawa.nvim", priority = 1000 },
+  { "rose-pine/neovim", name = "rose-pine", priority = 1000 },
 }
