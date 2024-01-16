@@ -35,7 +35,6 @@ return {
   },
   t = {
     -- setting a mapping to false will disable it
-    -- ["<esc>"] = false,
-    ["jj"] = { "<esc>", desc = "change mode to normal" },
+    ["<esc>"] = false,
   },
 }
