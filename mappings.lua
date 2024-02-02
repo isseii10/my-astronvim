@@ -37,7 +37,5 @@ return {
   t = {
     -- setting a mapping to false will disable it
     ["<esc>"] = false,
-    ["<"] = { "<gv", desc = "continue v-mode after indentation adjustment" },
-    [">"] = { ">gv", desc = "continue v-mode after indentation adjustment" },
   },
 }
