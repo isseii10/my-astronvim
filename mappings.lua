@@ -38,4 +38,8 @@ return {
     -- setting a mapping to false will disable it
     ["<esc>"] = false,
   },
+  v = {
+    ["<"] = { "<gv", desc = "continue v-mode after indentation adjustment" },
+    [">"] = { ">gv", desc = "continue v-mode after indentation adjustment" },
+  },
 }
