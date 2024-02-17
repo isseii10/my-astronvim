@@ -15,4 +15,5 @@ return {
   { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.scala" },
 }
