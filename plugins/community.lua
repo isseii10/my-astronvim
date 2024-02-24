@@ -16,4 +16,5 @@ return {
   { import = "astrocommunity.pack.terraform" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.scala" },
+  { import = "astrocommunity.pack.haskell" },
 }

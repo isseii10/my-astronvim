@@ -20,6 +20,7 @@ return {
       return opts
     end,
   },
+  { "luc-tielen/telescope_hoogle" },
   -- You can disable default plugins as follows:
   -- { "max397574/better-escape.nvim", enabled = false },
   --
