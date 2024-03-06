@@ -17,4 +17,5 @@ return {
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.scala" },
   { import = "astrocommunity.pack.haskell" },
+  { import = "astrocommunity.pack.docker" },
 }
